@@ -103,7 +103,7 @@ header, #top-nav li a, .header-contact-btn a {
   position: relative;
   width: 100%;
   padding: 100px 0 200px 150px;
-  background: url(./img/top-purple-bg-shape.png);
+  background: url('./img/top-purple-bg-shape.png');
   border-bottom-right-radius: 300px;
 }
 
@@ -290,7 +290,7 @@ header, #top-nav li a, .header-contact-btn a {
 
 .services-container {
   display: inline-block;
-  background: url(./img/service-bg-shape.png) no-repeat ;
+  background: url('./img/service-bg-shape.png') no-repeat ;
   background-color: #fefeff;
   width: 100%;
   height: auto;
